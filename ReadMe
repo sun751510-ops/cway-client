@@ -1,0 +1,33 @@
+# cway-client Updates
+
+## 🚀 Latest Version
+**Version**: 2026.05.02.0400  
+**Release Date**: May 2, 2026  
+**Status**: ✅ Active
+
+## 📦 Download
+- **[Latest Release](https://github.com/sun751510-ops/cway-client/releases/latest)**
+
+## 🔧 Auto-Update Information
+This repository provides automatic update services for the cway-client application.
+
+### 📋 Update Server Details
+- **URL**: https://sun751510-ops.github.io/cway-client
+- **Version Info**: [version.json](./version.json)
+- **Status**: 🟢 Online and operational
+
+### 🔄 Update Process
+1. cway-client checks for updates automatically
+2. Downloads new versions securely
+3. Verifies file integrity (SHA256)
+4. Installs updates automatically
+5. Restarts with new version
+
+## 📊 Version Information
+```json
+Current version details available in version.json
+- Version: 2026.05.02.0400
+- Size: 49.9 MB
+- SHA256: Verified
+- Changes: License fixes + Auto-updater
+```
