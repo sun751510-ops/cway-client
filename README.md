@@ -13,6 +13,6 @@ This repository provides update information for the cway-client application.
 - **Version Info**: [version.json](./version.json)
 
 ### Update Server
-- **URL**: https://sun751510-ops.github.io/cway-client
+- **URL**: https://github.com/sun751510-ops/cway-client
 - **Status**: Active
 ```
