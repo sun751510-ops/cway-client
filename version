@@ -1,0 +1,9 @@
+{
+  "version": "2026.05.02.0400",
+  "release_date": "2026-05-02T10:00:00Z",
+  "changes": "Fixed license key validation, added auto-updater system, enhanced UI with mouse glow and theme matching",
+  "sha256": "2cff54ac8de678665aa4b049f500534ab043173457d4ea3b7444b5621c8e9a6c",
+  "size": 49869880,
+  "download_url": "https://github.com/sun751510-ops/cway-client/releases/latest/download/cway%20client.exe",
+  "mandatory": false
+}
